@@ -8,7 +8,8 @@
 * FAST CIN AND COUT
 >THESE CODE ARE IN C++, i have built logic as per my knowledge.
 >You should first try youself before loooking into the solutions.
->Rate my repository at https://github.com/sagarr70/codechef-problems
+>Rate my repository at
+https://github.com/sagarr70/codechef-problems
 
 # ATM
 ```c++
