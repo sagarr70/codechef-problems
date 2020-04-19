@@ -1,15 +1,16 @@
 # codechef-problems
-IN THIS REPOSITORY I AM KEEPING TRACK OF MY SOLUTION TO CODECHEF PROBLEMS.
+## IN THIS REPOSITORY I AM KEEPING TRACK OF MY SOLUTION TO CODECHEF PROBLEMS.
 
-# LIST OF PROBLEMS I HAVE SOLVED TILL NOW
->ATM
->CARSELL
->COVID PANDEMIC AND LONG QUEUE
->ADD TWO NUMBERS
->FAST CIN AND COUT
+### LIST OF PROBLEMS I HAVE SOLVED TILL NOW
+-ATM
+-CARSELL
+-COVID PANDEMIC AND LONG QUEUE
+-ADD TWO NUMBERS
+-FAST CIN AND COUT
 
 
-******************ATM*********************
+# ATM
+`
 #include<iostream>
 #include<iomanip>
 using namespace std;
@@ -29,7 +30,7 @@ int main(){
     
     return 0;
 }
-
+`
 *******************CARSELL****************
 #include<bits/stdc++.h>
 using namespace std;
