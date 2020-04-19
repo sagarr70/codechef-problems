@@ -1,6 +1,6 @@
-![Download Repository](/Images/downloadbutton.jpg)(https://codeload.github.com/sagarr70/codechef-problems/zip/master)
-# codechef-problems
 
+# codechef-problems
+![https://codeload.github.com/sagarr70/codechef-problems/zip/master](/Images/downloadbutton.jpg)
 ### LIST OF PROBLEMS I HAVE SOLVED TILL NOW
 * ATM
 * CARSELL
