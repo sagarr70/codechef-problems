@@ -11,11 +11,11 @@
 
 # ATM
 `code`
-#include<iostream>
-#include<iomanip>
-using namespace std;
+    #include<iostream>
+    #include<iomanip>
+    using namespace std;
 
-int main(){
+    int main(){
     int X;float Y;
     cin>>X>>Y;
      if(X%5==0&&Y>X)
@@ -29,14 +29,14 @@ int main(){
     }
     
     return 0;
-}
+    }
 
 #CARSELL
 `code`
-#include<bits/stdc++.h>
-using namespace std;
-#define mod (1000000007)
-int main(){
+    #include<bits/stdc++.h>
+    using namespace std;
+    #define mod (1000000007)
+    int main(){
     int t;
     cin>>t;
     while (t!=0)
@@ -62,6 +62,6 @@ int main(){
     } 
 
     return 0;
-}
+    }
 
 
