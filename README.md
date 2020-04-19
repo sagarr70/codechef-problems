@@ -2,19 +2,18 @@
 ## IN THIS REPOSITORY I AM KEEPING TRACK OF MY SOLUTION TO CODECHEF PROBLEMS.
 
 ### LIST OF PROBLEMS I HAVE SOLVED TILL NOW
--ATM
--CARSELL
--COVID PANDEMIC AND LONG QUEUE
--ADD TWO NUMBERS
--FAST CIN AND COUT
+* ATM
+* ARSELL
+* COVID PANDEMIC AND LONG QUEUE
+* ADD TWO NUMBERS
+* FAST CIN AND COUT
 
 
 # ATM
-`code`
+```c++
     #include<iostream>
     #include<iomanip>
     using namespace std;
-
     int main(){
     int X;float Y;
     cin>>X>>Y;
@@ -27,12 +26,11 @@
     {
         cout<<setprecision(2)<<fixed<<Y;
     }
-    
     return 0;
     }
-
+```
 #CARSELL
-`code`
+```c++
     #include<bits/stdc++.h>
     using namespace std;
     #define mod (1000000007)
@@ -51,7 +49,6 @@
         for (int i = n-1; i >=0; i--)
         {   if (a[i]-year>0)
         {
-    
             sum=sum+(a[i]-year);
             sum%=mod;
             year++;
@@ -60,8 +57,7 @@
       cout<<sum%1000000007<<endl;
       t--;
     } 
-
     return 0;
     }
-
+```
 
